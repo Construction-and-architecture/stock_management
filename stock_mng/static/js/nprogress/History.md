@@ -1,6 +1,6 @@
 ## [v0.2.0] - May 13, 2015
 
-This is a maintenance release with cleanups. No functionality changes were introduced.
+This is a maintenance release with cleanups. No functionality changes were introduced
 
  * [#93] - Remove jQuery dependency in component ([@slang800])
  * [#120] - Fix the Readme showing a wrong example for `ease` ([@teeceepee])
