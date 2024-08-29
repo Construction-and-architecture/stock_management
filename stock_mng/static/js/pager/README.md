@@ -4,7 +4,7 @@ It shows an example how to write statefull plugins with jQuery UI's [widget fact
 
 ## Usage:
 `$(".tableClass").paging({limit:5});`
-* `limit` - the number of rows to display on a page.
+* `limit` - the number of rows to display on a page
 
 ## Example:
 [View example...](http://mzolee.com/paging)
