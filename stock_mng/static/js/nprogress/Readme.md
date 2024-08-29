@@ -13,7 +13,7 @@ Medium.
 Installation
 ------------
 
-Add [nprogress.js] and [nprogress.css] to your project.
+Add [nprogress.js] and [nprogress.css] to your project
 
 ```html
 <script src='nprogress.js'></script>
